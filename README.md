@@ -63,4 +63,3 @@ The Food Product Explorer uses a clean food-themed visual style with a soft gree
 - The app intentionally displays only food-related categories from the API data.
 - Product data and image availability come from the external API and can vary by item.
 - The UI is limited to the requested Food Product Explorer functionality and does not include backend or authentication features.
-
